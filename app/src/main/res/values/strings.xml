@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Zwink App</string>
+    <string name="zwink_splash_app_description">Daily Facelapse</string>
+    <string name="zwink_splash_powered_by">Powered by CodeCraft Technologies</string>
+    <string name="zwink_walkthrough_page_1_title">Record your daily 3 seconds </string>
+    <string name="zwink_walkthrough_page_1_description">Take daily videos to document your life and watch your progress</string>
+    <string name="zwink_walkthrough_page_2_title">Transform clips into timelapses</string>
+    <string name="zwink_walkthrough_page_2_description">Create a timelapse from your daily videos and share it with friends and family</string>
+    <string name="zwink_walkthrough_page_3_title">Hassle free capturing</string>
+    <string name="zwink_walkthrough_page_3_description">The on-screen guide ensures that your captures stay consistent</string>
+    <string name="zwink_walkthrough_next_button">NEXT</string>
+    <string name="zwink_walkthrough_get_started_button">GET STARTED</string>
+</resources>
